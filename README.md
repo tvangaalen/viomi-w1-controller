@@ -1,3 +1,5 @@
+> **Gearchiveerd op 1 november 2026.** Dit project wordt verder ontwikkeld als `modules/washer` in [DrifterBoatSystems](https://github.com/tvangaalen/DrifterBoatSystems/tree/main/modules/washer), met de volledige historie. Deze repository is alleen-lezen.
+
 # VIOMI W1 webcontroller
 
 Lokale Flask-webcontroller voor de VIOMI W1 (`viomi.washer.w1`), versie `3.7-v58`. Inclusief status, bediening, diagnostiek en een server-side scheduler.
